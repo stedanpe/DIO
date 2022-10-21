@@ -1,2 +1,2 @@
-#Exercícios Java<br>
-Vários exercícios ... 
+# Exercícios
+Todos estudos
