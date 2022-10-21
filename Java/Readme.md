@@ -1,2 +1,2 @@
 # Exercícios
-Todos estudos
+Vários
